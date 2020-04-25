@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Companion</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="football">football</string>
+    <string name="date_m">34-90-2019</string>
+    <string name="sections">News Categories</string>
+    <string name="latest">Latest News</string>
+    <string name="no_data">Oops there is nothing to display</string>
+</resources>
