@@ -9,7 +9,9 @@ Android News Feed app
 
 
 ## Screenshots
-![blacksheep](https://user-images.githubusercontent.com/39838697/79722382-dd45a880-82db-11ea-95a7-10a2abc709f0.png)
+![m1](https://user-images.githubusercontent.com/39838697/80273362-56247600-86c9-11ea-8f41-64b320991980.png)
+![m2](https://user-images.githubusercontent.com/39838697/80273363-5755a300-86c9-11ea-8658-9b32b856d13a.png)
+
 
 ## Disclaimer
 All photos used in the app or promotional collaterals are open-source and royalty free from Unsplash.com.
